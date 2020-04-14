@@ -1,0 +1,1 @@
+there had been arson attacks on 5g masts ahead of the coronavirus pandemic. but there are concerns that the vandalism is being encouraged by conspiracy theories. there have also been reports of possible cases since easter break

@@ -1,0 +1,1 @@
+an enforcement blitz , announced on thursday , began on friday and runs all weekend. people who park in parking lots of parks that have been closed can also face fines of $ 100 and be towed. fines for violating a provincial order can range from $ 750 to $ 100 , including up to one year in jail

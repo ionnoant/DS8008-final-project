@@ -1,0 +1,1 @@
+imf expects uk economy to shrink by 6.5 % in 2020 , while global economy will contract by 3 %. the obr 's estimates focus on the virus 's impact on the uk economy and public finances. this would represent the largest deficit as a share of gdp since world war two

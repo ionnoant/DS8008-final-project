@@ -1,0 +1,1 @@
+police say adrian camps and her boyfriend had arranged to sell three pairs of shoes for $ 935. she died of a gunshot wound to her pelvis and abdomen , police say. the two men face charges of second-degree murder , attempted murder and attempted murder

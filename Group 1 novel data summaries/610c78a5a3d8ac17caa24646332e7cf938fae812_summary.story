@@ -1,0 +1,1 @@
+more than 300 firefighters with dozens of pieces of special hardware are working at the site , while six helicopters and planes are attempting to extinguish the fire from above. chernobyl nuclear power station and nearby town of pripyat have been abandoned since 1986 , when the plant 's no. 4 reactor blew up

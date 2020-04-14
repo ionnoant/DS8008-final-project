@@ -1,0 +1,1 @@
+both go transit and the toronto transit commission say their ridership is down. both drivers say they have seen an 80 per cent decline. both companies say they are in talks with the federal government

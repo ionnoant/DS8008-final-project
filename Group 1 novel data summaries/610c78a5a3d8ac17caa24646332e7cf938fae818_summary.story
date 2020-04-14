@@ -1,0 +1,1 @@
+imf predicts the uk economy will shrink by 6.5 % in 2020. imf predicts global growth will rebound to 5. 8 % if the pandemic fades. the economic crisis could knock $ 9 trillion off global gdp over the next two years

@@ -1,0 +1,1 @@
+mcdonalds said that when it found out about the notice it temporarily closed the restaurant. the restaurant added that it had conducted diversity and inclusion- training. last week , hundreds of africans in guangzhou were evicted from hotels and apartments

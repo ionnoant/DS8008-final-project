@@ -1,0 +1,1 @@
+the bacterium could infect cherry , almond and plum trees. it is transmitted by sap - sucking insects such as spittlebugs. in italy , the consequences of the spread of the disease have been devastating

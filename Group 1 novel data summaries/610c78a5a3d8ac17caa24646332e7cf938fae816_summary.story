@@ -1,0 +1,1 @@
+u.s. ambassador to moscow calls case a " mockery of justice ". paul whelan was detained with a usb flash drive which the fsb says contained secret information. his lawyer called the case a ` provocation ' and " fabrication " by an intelligence officer

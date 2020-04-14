@@ -1,0 +1,1 @@
+cnn 's anderson cooper notes that concern about animals can have a broader impact on human health. but it 's not yet clear whether a pet 's body , paws or fur can pick up and spread ebola

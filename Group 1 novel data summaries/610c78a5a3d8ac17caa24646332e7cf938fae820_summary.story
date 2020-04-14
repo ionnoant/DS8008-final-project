@@ -1,0 +1,1 @@
+the new warning label will provide consumers with additional information. it says publishers will now be required to provide additional information regarding the nature of these purchases. esrb said its updated warning would apply to games with loot boxes , item or card packs , prize wheels , treasure chests , and more

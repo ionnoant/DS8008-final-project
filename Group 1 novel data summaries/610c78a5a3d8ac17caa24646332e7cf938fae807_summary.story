@@ -1,0 +1,1 @@
+the storm is moving across a large part of ontario. the biggest outages were in durham region and near huntsville

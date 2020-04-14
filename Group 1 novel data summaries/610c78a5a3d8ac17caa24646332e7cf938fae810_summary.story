@@ -1,0 +1,1 @@
+cnn 's a roundup of some inspiring news stories of the day for monday , april 13. here 's a round up of some modeling coverage of the night for monday
