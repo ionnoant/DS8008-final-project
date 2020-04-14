@@ -1,0 +1,1 @@
+scott kilday , 35 , told employment tribunal he found ` bugging ' devices hidden between artificial flowers. he was allegedly told the bug had been planted for ` business strategic reasons '. mr kilday said it was around the same time miss mone asked him to resign as a director

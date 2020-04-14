@@ -1,0 +1,1 @@
+mr wood was trying to park his nissan micra in the garage of his home. he did not realise the pair were behind him and did n't realise they were behind. mrs wood 's daughter , lynda pugh , 68 , was also injured as she tried to push her mother out of the way

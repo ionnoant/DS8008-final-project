@@ -1,0 +1,1 @@
+kerry , 35 , was diagnosed with advanced pancreatic cancer. doctors told her she was suffering from a stomach ulcer. she was told she had a miscarriage and doctors suggested she had had been miscarriage. doctors said she had been suffering from severe cramps. now she is responding well to palliative treatment

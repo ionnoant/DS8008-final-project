@@ -1,0 +1,1 @@
+teresa heinz , 74 , is expected to make a full recovery from the july 7 seizure. doctors have ruled out a brain tumor , heart attack or stroke

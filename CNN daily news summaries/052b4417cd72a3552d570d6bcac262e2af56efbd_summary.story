@@ -1,0 +1,1 @@
+the 25 year old was said to be so in love with the teen that she sent him a letter from prison suggesting they could elope together. van deleden showed no emotion as she was jailed for 10 years

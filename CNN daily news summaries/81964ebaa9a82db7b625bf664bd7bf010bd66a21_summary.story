@@ -1,0 +1,1 @@
+the position became available after sharon light , who worked closely with lois lerner , left the organization. thomas is the embattled former head of the irs exemptions office who has been called upon to testify before the house oversight and government reform committee

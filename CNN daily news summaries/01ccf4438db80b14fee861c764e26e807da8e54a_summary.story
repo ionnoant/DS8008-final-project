@@ -1,0 +1,1 @@
+firefighters say popularity of 50 shades of grey has sparked a surge in people getting trapped in handcuffs. they are increasingly being called out to free people handcuffed to beds

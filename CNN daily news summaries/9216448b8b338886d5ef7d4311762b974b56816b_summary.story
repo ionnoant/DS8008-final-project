@@ -1,0 +1,1 @@
+nathania terry , 32 , watched in horror as her five-month-old baby girl was crushed to death in a baggage carousel at a spanish airport. her uncle , who also lives in maryland , said the family is devastated by the death of the young infant. he also confirmed that the baby who died was a little girl , not a boy as some spanish media had previously reported

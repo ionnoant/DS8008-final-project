@@ -1,0 +1,1 @@
+peter buffett says a new system is needed to end inequality. his son warns that just throwing funds at problems in society can prevent a more permanent solution from being found

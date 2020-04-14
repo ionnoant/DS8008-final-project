@@ -1,0 +1,1 @@
+crofthouse was designed by architect james stockwell. it is based on the theory that rain , sun and wind could generate an architecture. the house won the recent prestigious alan and beth coldicutt for sustainable architecture award in the victorian architecture awards

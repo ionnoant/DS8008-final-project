@@ -1,0 +1,1 @@
+body of bride on the hudson river was pulled from the water close to the scene where she had plunged into the water. the boat 's operator jojo john , 35 , has been charged with vehicular manslaughter for his role in the tragedy , as well as for vehicular assault. the couple were due to be married in two weeks time

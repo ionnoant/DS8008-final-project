@@ -1,0 +1,1 @@
+police divers in connecticut have begun searching a lake in aaron hernandez 's hometown for a handgun used to kill odin lloyd. the . 45 - caliber glock semi - automatic pistol , which prosecutors say hernandez used to shoot odin lloyd dead on june 17 , has not been found

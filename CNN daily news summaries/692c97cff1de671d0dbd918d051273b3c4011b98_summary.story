@@ -1,0 +1,1 @@
+sharon swinhoe killed her ex-boyfriend with help of another lover. she plundered mr mcmahon 's bank account after his death. her accomplice joseph collins , 54 , was jailed for a minimum of 20 years

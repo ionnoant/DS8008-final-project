@@ -1,0 +1,1 @@
+a sheriff 's office in lousiana is under fire from gay rights advocates for targeting men using an outdated law from the early 1800s. the special community anti- crime team has arrested at least 12 men under an unenforceable ` crime against nature ' law deemed invalid by the u.s. supreme court a decade ago

@@ -1,0 +1,1 @@
+tina nash was blinded by her ex-boyfriend after he gouged her eyes out. new partner roland alli , 32 , threatened her with a knife in her own home. he was jailed for life in a secure mental health unit and ordered to serve

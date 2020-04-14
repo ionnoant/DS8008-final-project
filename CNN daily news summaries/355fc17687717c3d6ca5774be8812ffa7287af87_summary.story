@@ -1,0 +1,1 @@
+pool house in kimpton bottom near harpenden , hertfordshire , is on the market for # 95m. it boasts britain 's last family-own-owned public swimming pool

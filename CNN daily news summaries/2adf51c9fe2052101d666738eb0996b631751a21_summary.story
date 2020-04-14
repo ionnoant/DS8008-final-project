@@ -1,0 +1,1 @@
+castro , 53 , has been charged with murder under a fetal homicide law. he is due to appear in a cleveland court today amid media reports that .. lawyer : ` negotiations are close , but nothing is final '

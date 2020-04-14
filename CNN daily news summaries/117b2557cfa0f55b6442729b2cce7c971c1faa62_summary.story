@@ -1,0 +1,1 @@
+anthony weiner paid $ 45,000 for bogus investigation into whether his twitter account was hacked. weiner 's wife huma abedin was pregnant with the couple 's son

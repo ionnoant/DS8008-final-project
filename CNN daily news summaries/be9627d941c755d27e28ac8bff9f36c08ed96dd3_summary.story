@@ -1,0 +1,1 @@
+police responded to reports of a vehicle on fire in the affluent area of palos park at 11. 45pm on saturday. officers from cook county sheriff 's office have since used sniffer dogs and helicopters to scan surrounding woodland

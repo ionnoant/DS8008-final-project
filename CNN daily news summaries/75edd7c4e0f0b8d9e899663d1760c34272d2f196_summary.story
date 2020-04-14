@@ -1,0 +1,1 @@
+ariel castro , 53 , admitted to his crimes and accepted a prison sentence of 1 ,00 years. anthony castro hanged himself in his ohio prison cell on september 3 - after just one month. ariel 's son anthony has spoken out for the first time since his father 's death

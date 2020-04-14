@@ -1,0 +1,1 @@
+joan woods was using a four- wheeled walking frame when she was hit by the footplate of the wheelchair , knocking her off balance. the care home described the collision as a ` tragic accident '

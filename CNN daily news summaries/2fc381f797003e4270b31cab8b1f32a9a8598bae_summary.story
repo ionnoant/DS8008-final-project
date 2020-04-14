@@ -1,0 +1,1 @@
+the accident happened on the last day of a model t fan club tour. karen johnson , 51 , died after the car 's front wheel went off the pavement , breaking its wooden spokes and flipped it down a small hill

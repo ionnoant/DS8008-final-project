@@ -1,0 +1,1 @@
+betty lukich disappeared from her home in indiana more than three decades ago. a brother rang them up drunk one day and told them he had buried her in a marijuana field behind his home. she was 12 the last time she saw her , and dad thought she was dead

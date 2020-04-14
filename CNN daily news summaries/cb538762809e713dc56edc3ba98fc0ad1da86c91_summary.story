@@ -1,0 +1,1 @@
+a woman was arrested monday on charges she vandalized two chapels at washington , dc 's national cathedral. similar paint was found on the lincoln memorial statue on friday. similar incidents were also found inside children 's chapel in the nave of the .

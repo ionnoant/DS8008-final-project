@@ -1,0 +1,1 @@
+the american actress wore a black coat and trousers as she walked her dog through the streets of london. she wore a poo bag and picked up her pet 's mess with an orange poo bag. the fourth season of the drama started last night with the family looking to pick up the pieces from lady mary 's husband matthew crawley

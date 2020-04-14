@@ -1,0 +1,1 @@
+sacha mullins , 59 , used to advise women 's magazine readers about how to manage their money. but she was destitute months after ex-husband peter mullins sold his business for # 6million

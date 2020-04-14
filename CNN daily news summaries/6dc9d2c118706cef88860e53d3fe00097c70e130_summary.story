@@ -1,0 +1,1 @@
+skinny mirror uses curved glass to trick users into appearing up to 10lbs lighter. entrepreneur belinda jasmine claims her invention is a safe alternative to cosmetic surgery and cosmetics

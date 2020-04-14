@@ -1,0 +1,1 @@
+relatives of lindsey stewart arrive at boatyard near tappan zee bridge to see wreckage of speedboat. wreckage of 30-year-old speedboat is being examined at the church where they were set to be married. boat driver jojo john , who was allegedly drunk at the time , remain in. wreckage will be laid to rest on thursday after service at the good shepherd

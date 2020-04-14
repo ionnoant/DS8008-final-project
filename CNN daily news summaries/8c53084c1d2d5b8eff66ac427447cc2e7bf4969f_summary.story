@@ -1,0 +1,1 @@
+pair claimed they were victims of spite involving a man who held a grudge against arundel after she dismissed someone he knew from the care home she managed in ipswich. but they insisted they were under the limit when they drove home from st audrey 's social club after meeting up from work. they were ordered to fork out a total of # 58 in fines and costs between them

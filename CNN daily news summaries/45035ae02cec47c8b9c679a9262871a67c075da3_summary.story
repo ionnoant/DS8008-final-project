@@ -1,0 +1,1 @@
+debbie dicarlo , 59 , from ohio , captured the moment in minnesota. she said : ` there was something so special to be amongst them at that moment '. the moment was so perfect , in fact , that sceptics accused ms dicarlo of snapping a photo of a still life in a museum

@@ -1,0 +1,1 @@
+victims identified as juan alberdi , juan alberdi and delilah lovett. girl 's body was recovered later on saturday night after being spotted by kayakers three- quarters of a mile from where she had been swimming

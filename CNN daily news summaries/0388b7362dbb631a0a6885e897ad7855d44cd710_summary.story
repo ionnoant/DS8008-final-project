@@ -1,0 +1,1 @@
+china labour watch said it found violations of the law and of apple 's pledges about working conditions at factories operated by pegatron. workers , paid as little as # 12 an hour , work on the production line at foxconn factory

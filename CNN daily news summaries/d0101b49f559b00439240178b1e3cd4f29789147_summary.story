@@ -1,0 +1,1 @@
+margaretta wolf , 96 , told robber he could have tootsie rolls , but no cash. she said : ' i said , " i 'm not opening up that cash register and that 's it " '

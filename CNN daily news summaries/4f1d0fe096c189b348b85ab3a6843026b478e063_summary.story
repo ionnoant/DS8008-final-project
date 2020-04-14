@@ -1,0 +1,1 @@
+author ian hernon 's book explores the norman conquest of england in 1066 and germany 's occupation of guernsey during world war ii. he counted 73 significant invasions - but most failed because of the terrible british weather. the book will deflate the idea that britain has not been on the receiving end of an invasion for centuries

@@ -1,0 +1,1 @@
+trista reynolds , 25 , has released new details from evidence photos taken in the wake of her daughter 's disappearance. she claims blood was found in several rooms inside the house , on the sofa and on the baby girl 's car seat in dipietro 's car. reynolds says she wants the public to appeal to the state attorney general 's office to file charges against dipietro

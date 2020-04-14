@@ -1,0 +1,1 @@
+actor , 48 , played liberace in hbo 's behind the candelabra

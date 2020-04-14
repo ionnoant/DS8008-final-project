@@ -1,0 +1,1 @@
+uvb , the same spectrum of ultraviolet that causes the skin to burn , are most damaging to the eyes. uvb can damage the lens ( which helps focus light ) inside the eye , ' says chris worsman , a senior optometrist at viewpoint opticians in york

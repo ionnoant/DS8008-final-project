@@ -1,0 +1,1 @@
+england under 21s failed to progress out of the group stages at the european championships in israel this summer. they lost all three games and scored just one goal. england are in danger of not qualifying for the world cup

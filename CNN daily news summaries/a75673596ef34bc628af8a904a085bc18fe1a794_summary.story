@@ -1,0 +1,1 @@
+cuckoo 's calling sold 1,000 copies yesterday at clays ltd in bungay , suffolk. publisher admitted earlier this week she turned down the call. mother of two jude callegari said it was not a first-time work and jk rowling was the real author

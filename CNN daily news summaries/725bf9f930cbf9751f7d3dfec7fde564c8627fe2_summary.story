@@ -1,0 +1,1 @@
+two known gang members have been arrested for the shooting of 13 people at a chicago basketball court thursday night. neither is suspected of pulling the trigger , but they are believed to have had significant roles in the shooting spree that shocked a city hardened by decades of senseless shootings

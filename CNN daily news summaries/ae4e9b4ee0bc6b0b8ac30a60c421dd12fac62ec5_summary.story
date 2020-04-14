@@ -1,0 +1,1 @@
+just 27 % back alex salmond 's bid for scotland to leave the uk. 59 % of scots are planning to vote no on september 18 , 2014

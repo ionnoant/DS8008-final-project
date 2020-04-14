@@ -1,0 +1,1 @@
+ella phillips , 29 , was cycling to the . gallery when ed miliband 's bike stopped. miss phillips , who is also an artist , said : ` he mysteriously appeared out of nowhere '

@@ -1,0 +1,1 @@
+james hayes was attempting to rob the moh 's market convenience store in ambridge , pennsylvania when the clerk brought an actual gun to the fight. he pointed it at the attendant and seems to be ordering him , who in turn reaches under the counter and brandishes a gun. hayes was apprehended by police and was later apprehended

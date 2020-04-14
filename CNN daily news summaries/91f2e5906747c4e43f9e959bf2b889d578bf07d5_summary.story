@@ -1,0 +1,1 @@
+mother and son banned from keeping animals for the rest of their lives. judge timothy pattinson described catalogue of neglect infliced on animals living in their own dirt

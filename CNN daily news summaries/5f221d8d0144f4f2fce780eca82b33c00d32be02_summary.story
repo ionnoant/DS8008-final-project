@@ -1,0 +1,1 @@
+gingrich attacked mitt romney and defended alleged racist comments he made earlier on the campaign trail. former house speaker was confronted in front of a 3,000 - strong crowd in myrtle beach , south carolina by juan williams

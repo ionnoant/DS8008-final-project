@@ -1,0 +1,1 @@
+the single- engine 1975 piper cherokee plane was reported lost from the radar by officials at a nearby airport around 4pm. two bodies were found 45 feet below lake michigan saturday. rescuers searched the area with the help of seven boats

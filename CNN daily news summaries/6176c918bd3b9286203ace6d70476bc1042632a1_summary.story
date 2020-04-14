@@ -1,0 +1,1 @@
+the colne valley sculpture trail , described as a ` three- mile walk of shame ' , pokes fun at art critics. the trail includes an abandoned bath and a derelict house

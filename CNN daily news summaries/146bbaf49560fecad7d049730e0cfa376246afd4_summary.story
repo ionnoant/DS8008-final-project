@@ -1,0 +1,1 @@
+forecasters warned that now the heatwave is well and truly over. forecasters warn that all that the rest of us can look forward to is gloomy skies and torrential downpours

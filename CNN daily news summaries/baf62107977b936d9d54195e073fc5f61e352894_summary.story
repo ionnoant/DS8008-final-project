@@ -1,0 +1,1 @@
+the last time fans of the show saw her during last year 's christmas special , the character had just given birth and the youngster had yet to be named. george 's tragic demise helped boost the show 's ratings to 9.5million

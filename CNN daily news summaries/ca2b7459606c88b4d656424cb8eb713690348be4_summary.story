@@ -1,0 +1,1 @@
+nelson would sleep in the attic of his uncle 's house at holt. nelson is said to have once played bowls at the nearby white lion pub

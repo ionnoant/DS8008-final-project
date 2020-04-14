@@ -1,0 +1,1 @@
+aaron swartz committed suicide this past january when faced with the possibility of a long prison sentence for hacking into mit 's network

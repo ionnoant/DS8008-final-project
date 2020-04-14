@@ -1,0 +1,1 @@
+a search engine analysed the body art of 10 of the most tattooed celebrities. cheryl cole showed off her rose design at a girls aloud concert. rapper lil wayne would need more than 500 sessions totaling 173 hours to erase his artwork

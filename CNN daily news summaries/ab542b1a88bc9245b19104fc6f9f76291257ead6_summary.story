@@ -1,0 +1,1 @@
+four senior doctors who presided over the deaths of hundreds of patients have been let off without punishment. the decision means not a single doctor involved in the scandal has been struck off or suspended

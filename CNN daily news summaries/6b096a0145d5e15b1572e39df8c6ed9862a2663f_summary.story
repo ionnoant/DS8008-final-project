@@ -1,0 +1,1 @@
+paul meehan , 40 , seen arriving at croydon magistrates ' court. grandmother 's boyfriend stuart hazell , 37 , accused of killing 12-year-old tia. meehan told police : ' i 'm 100 per cent sure in my heart it was tia '

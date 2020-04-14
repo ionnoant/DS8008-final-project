@@ -1,0 +1,1 @@
+labour justice spokesman sadiq khan said members could vote on whether unions should be allowed to hold around a third of the votes in leadership contests. nearly #4million has been donated since ed miliband became leader three years ago. it also emerged that unions could be stripped of their voting rights in labour leadership contests

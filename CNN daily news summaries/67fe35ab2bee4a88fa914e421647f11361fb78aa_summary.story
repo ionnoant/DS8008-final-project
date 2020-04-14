@@ -1,0 +1,1 @@
+one who filled his rental property with raw meat in a bid to avoid paying the bill. another who replaced his villa 's eu plug sockets with british ones. most disgusting were the bathroom bin filled with poo and the plug sockets changed from eu to uk

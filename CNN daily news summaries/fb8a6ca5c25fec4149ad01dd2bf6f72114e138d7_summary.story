@@ -1,0 +1,1 @@
+detectives said the investigation was at an early stage and did not reveal the sex of the child , but said it may have been a newborn. police appeal for the mother , who may be in need of medical or emotional support , to come forward

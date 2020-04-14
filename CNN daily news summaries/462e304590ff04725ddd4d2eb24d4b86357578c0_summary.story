@@ -1,0 +1,1 @@
+mother-of-two megyn kelly gave birth to her third child this week. named thatcher bray brunt , the bundle of joy weighed in at eight pounds , two ounces

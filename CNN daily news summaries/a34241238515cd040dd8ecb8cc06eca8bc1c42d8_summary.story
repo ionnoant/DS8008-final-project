@@ -1,0 +1,1 @@
+an incredible haul of 74 mercedes owned by the same person is expected to fetch more than #9m in london 's most valuable ever car auction. the 540k is regarded as one of the most sought - after german cars , representing the pinnacle of pre-war automotive engineering

@@ -1,0 +1,1 @@
+len mccluskey told conference gathering : ` we are here this week to carry our voice into the political arena '
