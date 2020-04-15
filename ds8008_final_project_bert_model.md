@@ -20,57 +20,6 @@ Group 1 may lack the appropriate resources to fully replicate the results for an
 
 In addition to this Group 1 will create a sample dataset of news articles that are more current and test whether a pre-trained abstractive summarization model is capable of capturing more current news information.
 
-
-## Summary of Results 
-
-### Metric Scores
-
-#### CNN/Daily News sample dataset
-As part of this project Group 1 was able to run a sample of the CNN/Daily News dataset and output the following text summarization metrics:
-
-|| ROUGE-1 | ROUGE-2 | ROUGE-L |
-|:---| :---:          |     :---:      |          :---: |
-|**F1**| 0.29     | 0.165       | 0.313      |
-|**Precision**| 0.318   | 0.196     | 0.338    |
-|**Recall**| 0.273     | 0.149       | 0.297      |
-
-#### Group 1 sample news dataset
-Group 1 also ran a similar analysis using its own novel dataset, with the following text summarization metric scores:
-
-|| ROUGE-1 | ROUGE-2 | ROUGE-L |
-|:---| :---:          |     :---:      |          :---: |
-|**F1**| 0.105    | 0.015       | 0.131      |
-|**Precision**| 0.106  | 0.015     | 0.132    |
-|**Recall**| 0.104     | 0.015       | 0.130     |
-
-#### Results from paper 'Text Summarization with Pretrained Encoders'
-
-|| ROUGE-1 | ROUGE-2 | ROUGE-L |
-|:---| :---:          |     :---:      |          :---: |
-|**F1**| 0.421    | 0.196       | 0.391      |
-
-### Examples of abstractive summary text output
-
-#### CNN/Daily News sample dataset
-* **Article highlight** - London Fire Brigade turned out to 79 incidents involving handcuffs and nine instances of men with rings stuck on their penises
-* **Article highlight** - Each incident costs the taxpayer at least £290 and fire crews are warning the public to 'always keep the keys handy'
-    * **What BERT produced** - firefighters say popularity of 50 shades of grey has sparked a surge in people getting trapped in handcuffs. they are increasingly being called out to free people handcuffed to beds
-
-
-* **Article highlight** - Jokingly asked on-screen love interest Matt Damon whether he wanted 'the bottom or the top' of the Emmy
-* **Article highlight** - Thanked his estranged wife Catherine Zeta Jones 'for your support'
-    * **What BERT produced** - actor , 48 , played liberace in hbo 's behind the candelabra
-
-#### Group 1 sample news dataset
-
-* **Article highlight** - Bernie Sanders throws support behind former Democrat rival Joe Biden
-    * **What BERT produced** - sanders joined biden in an online campaign event , citing the coronavirus outbreak as a reason for the party to come together. the two appeared side--by-side on biden 's campaign website. the progressive firebrand who last week suspended his presidential campaign last week had declared that he saw no viable path to the presidential nomination. he called sanders the most powerful voice around a fair and more just america.
-
-
-* **Article highlight** - Andrea Bocelli gives moving Easter performance
-    * **What BERT produced** - cnn 's a roundup of some inspiring news stories of the day for monday , april 13. here 's a round up of some modeling coverage of the night for monday
-
-
 ## Introduction
 
 Given the amount of information available to us throughout the day, it is very easy to feel overwhelmed by it all and feel as though relevant pieces of information have been missed. While it may feel as though it has become more as a result of the way we consume information today, previous studies indicate that this problem has existed for decades. A study in 1966 by Dr. Jack B. Haskins had asked if an analyst needed to read the whole item for accurate classification or would it be sufficient enough to read the headline and lead paragraph to obtain an accurate reflection of an item’s subject matter[1].  As time has passed this problem has not gone away and feels as though it has only gotten worse. For this reason, automatic text summarization – the task of automatically condensing a piece of text to a shorter version – is becoming increasingly vital. [2]
@@ -176,8 +125,54 @@ https://github.com/huggingface/transformers/tree/master/examples/summarization/b
 
 Additional comments have been included within run_summarization.py, modeling_bertabs.py scripts.
 
+## Results 
+
+### Metric Scores
+
+#### CNN/Daily News sample dataset
+As part of this project Group 1 was able to run a sample of the CNN/Daily News dataset and output the following text summarization metrics:
+
+|| ROUGE-1 | ROUGE-2 | ROUGE-L |
+|:---| :---:          |     :---:      |          :---: |
+|**F1**| 0.29     | 0.165       | 0.313      |
+|**Precision**| 0.318   | 0.196     | 0.338    |
+|**Recall**| 0.273     | 0.149       | 0.297      |
+
+#### Group 1 sample news dataset
+Group 1 also ran a similar analysis using its own novel dataset, with the following text summarization metric scores:
+
+|| ROUGE-1 | ROUGE-2 | ROUGE-L |
+|:---| :---:          |     :---:      |          :---: |
+|**F1**| 0.105    | 0.015       | 0.131      |
+|**Precision**| 0.106  | 0.015     | 0.132    |
+|**Recall**| 0.104     | 0.015       | 0.130     |
+
+#### Results from paper 'Text Summarization with Pretrained Encoders'
+
+|| ROUGE-1 | ROUGE-2 | ROUGE-L |
+|:---| :---:          |     :---:      |          :---: |
+|**F1**| 0.421    | 0.196       | 0.391      |
+
+### Examples of abstractive summary text output
+
+#### CNN/Daily News sample dataset
+* **Article highlight** - London Fire Brigade turned out to 79 incidents involving handcuffs and nine instances of men with rings stuck on their penises
+* **Article highlight** - Each incident costs the taxpayer at least £290 and fire crews are warning the public to 'always keep the keys handy'
+    * **What BERT produced** - firefighters say popularity of 50 shades of grey has sparked a surge in people getting trapped in handcuffs. they are increasingly being called out to free people handcuffed to beds
 
 
+* **Article highlight** - Jokingly asked on-screen love interest Matt Damon whether he wanted 'the bottom or the top' of the Emmy
+* **Article highlight** - Thanked his estranged wife Catherine Zeta Jones 'for your support'
+    * **What BERT produced** - actor , 48 , played liberace in hbo 's behind the candelabra
+
+#### Group 1 sample news dataset
+
+* **Article highlight** - Bernie Sanders throws support behind former Democrat rival Joe Biden
+    * **What BERT produced** - sanders joined biden in an online campaign event , citing the coronavirus outbreak as a reason for the party to come together. the two appeared side--by-side on biden 's campaign website. the progressive firebrand who last week suspended his presidential campaign last week had declared that he saw no viable path to the presidential nomination. he called sanders the most powerful voice around a fair and more just america.
+
+
+* **Article highlight** - Andrea Bocelli gives moving Easter performance
+    * **What BERT produced** - cnn 's a roundup of some inspiring news stories of the day for monday , april 13. here 's a round up of some modeling coverage of the night for monday
 
 ## Analysis
 
