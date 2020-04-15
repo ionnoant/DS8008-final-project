@@ -11,7 +11,7 @@ can be usefully applied in text summarization and propose a general framework fo
 
 All analysis for this project used the Hugging Face library in Python.
 
-Link to Hugging Face github page:
+Link to Hugging Face Github page:
 
 https://github.com/huggingface
 
