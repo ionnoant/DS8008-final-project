@@ -123,7 +123,7 @@ The model is trained on the CNN/Daily Mail dataset. See below for basic statisti
 
 https://github.com/huggingface/transformers/tree/master/examples/summarization/bertabs
 
-Additional comments have been included within run_summarization.py, modeling_bertabs.py scripts.
+Additional comments have been included within run_summarization.py, modeling_bertabs.py scripts located in this Github repo.
 
 ## Results 
 
