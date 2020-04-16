@@ -160,9 +160,7 @@ Group 1 also ran a similar analysis using its own novel dataset, with the follow
 * **Article highlight** - Each incident costs the taxpayer at least £290 and fire crews are warning the public to 'always keep the keys handy'
     * **What BERT produced** - firefighters say popularity of 50 shades of grey has sparked a surge in people getting trapped in handcuffs. they are increasingly being called out to free people handcuffed to beds
 
-
 * **Article highlight** - Mount Tongariro takes scientists by surprise by suddenly erupting for the first time since 1897
-
 * **Article highlight** - People evacuated, roads closed and flights cancelled as thick ash spreads over several miles
 * **Article highlight** - Witnesses describe flashes and explosions followed by ash cloud reaching more than four miles high
 * **Article highlight** - Mountain lies in national park used as backdrop to Peter Jackson's The Lord of the Rings films
