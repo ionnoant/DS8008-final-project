@@ -161,9 +161,11 @@ Group 1 also ran a similar analysis using its own novel dataset, with the follow
     * **What BERT produced** - firefighters say popularity of 50 shades of grey has sparked a surge in people getting trapped in handcuffs. they are increasingly being called out to free people handcuffed to beds
 
 
-* **Article highlight** - Jokingly asked on-screen love interest Matt Damon whether he wanted 'the bottom or the top' of the Emmy
-* **Article highlight** - Thanked his estranged wife Catherine Zeta Jones 'for your support'
-    * **What BERT produced** - actor , 48 , played liberace in hbo 's behind the candelabra
+* **Article highlight** - Mount Tongariro takes scientists by surprise by suddenly erupting for the first time since 1897
+* **Article highlight** - People evacuated, roads closed and flights cancelled as thick ash spreads over several miles
+* **Article highlight** - Witnesses describe flashes and explosions followed by ash cloud reaching more than four miles high
+* **Article highlight** - Mountain lies in national park used as backdrop to Peter Jackson's The Lord of the Rings films
+    * **What BERT produced** - volcano suddenly erupted for the first time in more than a century. witness described flashes and followed explosions. volcano has covered parts of new zealand 's north island
 
 #### Group 1 sample news dataset
 
@@ -171,8 +173,8 @@ Group 1 also ran a similar analysis using its own novel dataset, with the follow
     * **What BERT produced** - sanders joined biden in an online campaign event , citing the coronavirus outbreak as a reason for the party to come together. the two appeared side--by-side on biden 's campaign website. the progressive firebrand who last week suspended his presidential campaign last week had declared that he saw no viable path to the presidential nomination. he called sanders the most powerful voice around a fair and more just america.
 
 
-* **Article highlight** - Andrea Bocelli gives moving Easter performance
-    * **What BERT produced** - cnn 's a roundup of some inspiring news stories of the day for monday , april 13. here 's a round up of some modeling coverage of the night for monday
+* **Article highlight** - Forest fires that have been burning for several days in northern Ukraine are now no more than a few kilometres from the abandoned Chernobyl nuclear plant, reports say.
+    * **What BERT produced** - more than 300 firefighters with dozens of pieces of special hardware are working at the site , while six helicopters and planes are attempting to extinguish the fire from above. chernobyl nuclear power station and nearby town of pripyat have been abandoned since 1986 , when the plant 's no. 4 reactor blew up
 
 ## Analysis
 
