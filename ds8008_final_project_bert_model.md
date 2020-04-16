@@ -156,9 +156,14 @@ Group 1 also ran a similar analysis using its own novel dataset, with the follow
 ### Examples of abstractive summary text output
 
 #### CNN/Daily News sample dataset
+
+##### Article 1
+
 * **Article highlight** - London Fire Brigade turned out to 79 incidents involving handcuffs and nine instances of men with rings stuck on their penises
 * **Article highlight** - Each incident costs the taxpayer at least £290 and fire crews are warning the public to 'always keep the keys handy'
     * **What BERT produced** - firefighters say popularity of 50 shades of grey has sparked a surge in people getting trapped in handcuffs. they are increasingly being called out to free people handcuffed to beds
+
+##### Article 2
 
 * **Article highlight** - Mount Tongariro takes scientists by surprise by suddenly erupting for the first time since 1897
 * **Article highlight** - People evacuated, roads closed and flights cancelled as thick ash spreads over several miles
@@ -168,9 +173,12 @@ Group 1 also ran a similar analysis using its own novel dataset, with the follow
 
 #### Group 1 sample news dataset
 
+##### Article 1
+
 * **Article highlight** - Bernie Sanders throws support behind former Democrat rival Joe Biden
     * **What BERT produced** - sanders joined biden in an online campaign event , citing the coronavirus outbreak as a reason for the party to come together. the two appeared side--by-side on biden 's campaign website. the progressive firebrand who last week suspended his presidential campaign last week had declared that he saw no viable path to the presidential nomination. he called sanders the most powerful voice around a fair and more just america.
 
+##### Article 2
 
 * **Article highlight** - Forest fires that have been burning for several days in northern Ukraine are now no more than a few kilometres from the abandoned Chernobyl nuclear plant, reports say.
     * **What BERT produced** - more than 300 firefighters with dozens of pieces of special hardware are working at the site , while six helicopters and planes are attempting to extinguish the fire from above. chernobyl nuclear power station and nearby town of pripyat have been abandoned since 1986 , when the plant 's no. 4 reactor blew up
