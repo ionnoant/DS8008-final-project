@@ -1,5 +1,5 @@
 # DS8008 Final Project - Abstractive Text Summarization Using BERT
-**Group 1 - Greg Araujo and Anthony Ionno**
+**Group 1 - Gregory Araujo and Anthony Ionno**
 
 ## Project Overview
 
