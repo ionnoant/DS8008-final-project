@@ -159,7 +159,7 @@ Group 1 also ran a similar analysis using its own novel dataset, with the follow
 
 ##### Article 1
 
-* **Article highlight** - London Fire Brigade turned out to 79 incidents involving handcuffs and nine instances of men with rings stuck on their penises
+* **Article highlight** - London Fire Brigade turned out to 79 incidents involving handcuffs and nine instances of men with rings stuck on their p******
 * **Article highlight** - Each incident costs the taxpayer at least £290 and fire crews are warning the public to 'always keep the keys handy'
     * **What BERT produced** - firefighters say popularity of 50 shades of grey has sparked a surge in people getting trapped in handcuffs. they are increasingly being called out to free people handcuffed to beds
 
